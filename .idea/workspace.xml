@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/fr/kriszt/theo/Main.java" line="74" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d023d150-63f6-4b90-9e9d-6ba360043011" name="Default Changelist" comment="" />
+    <list default="true" id="d023d150-63f6-4b90-9e9d-6ba360043011" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/RDF-DataManagement.jar" beforeDir="false" afterPath="$PROJECT_DIR$/res/RDF-DataManagement.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_1_eligibleregion.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_1_includes.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_1_likes.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_1_nationality.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_1_subscribes.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_2_likes_nationality.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_2_subscribes_likes.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_2_tag_homepage.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_3_location_gender_type.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_3_location_nationality_gender.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_3_nationality_gender_type.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/requetes1000/queries/Q_4_location_nationality_gender_type.queryset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/kriszt/theo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/kriszt/theo/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +62,62 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="845737982">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.105" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3651" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3651" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="14" />
+          <entry key="java" value="1" />
+          <entry key="queryset" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="10" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fr/kriszt/theo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+            <state relative-caret-position="349">
+              <caret line="175" column="49" selection-start-line="175" selection-start-column="49" selection-end-line="175" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#printProcessOutput#0;class#Main#0" />
+                <element signature="method#getParams#0;class#Main#0" />
+                <element signature="class#GroupEnum#0;class#Main#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/InputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-736">
-              <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -72,7 +128,31 @@
     <findStrings>
       <find>extra</find>
       <find>In quer</find>
+      <find>readF</find>
+      <find>verbose</find>
+      <find>params</find>
+      <find>TODO</find>
+      <find>Nouv</find>
+      <find>q1</find>
+      <find>q3</find>
+      <find>read</find>
+      <find>execq</find>
+      <find>wrapper</find>
+      <find>fileW</find>
+      <find>out+</find>
+      <find>stats.csv</find>
+      <find>Lecture des d</find>
+      <find>Output dir ::</find>
     </findStrings>
+    <replaceStrings>
+      <replace>q3</replace>
+      <replace>avg</replace>
+      <replace>q2</replace>
+      <replace>queriesReading</replace>
+      <replace>datasetReading</replace>
+      <replace>processingq</replace>
+      <replace>executionq</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,10 +164,17 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="25" />
-    <option name="width" value="1323" />
-    <option name="height" value="1055" />
+    <option name="x" value="900" />
+    <option name="y" value="251" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -97,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,32 +195,50 @@
             <path>
               <item name="RDF_Wrapper" type="b2602c69:ProjectViewProjectNode" />
               <item name="RDF_Wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RDF_Wrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RDF_Wrapper" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RDF_Wrapper" type="b2602c69:ProjectViewProjectNode" />
               <item name="RDF_Wrapper" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="requetes1000" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RDF_Wrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RDF_Wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RDF_Wrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RDF_Wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+              <item name="10000" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542210737091" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543363578788" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/res/jar" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Utilisateur\IdeaProjects\RDF_Wrapper\res" />
       <recent name="$PROJECT_DIR$/res/requetes1000" />
       <recent name="$PROJECT_DIR$/res" />
     </key>
@@ -149,52 +255,125 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.full  10">
+    <configuration name="20 times" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="fr.kriszt.theo.Main" />
       <module name="RDF_Wrapper" />
-      <option name="PROGRAM_PARAMETERS" value="-queries &quot;res/requetes1000&quot; -data &quot;res/dataset&quot; -output &quot;out/wrapper&quot; -jar &quot;res/RDF-DataManagement.jar&quot; -group &quot;us&quot; -times 1" />
+      <option name="PROGRAM_PARAMETERS" value="-queries &quot;res/requetes1000/Q_1_eligibleregion_10000.queryset&quot; -data &quot;res/dataset/1M.rdfxml.rdf&quot; -output &quot;out/wrapper&quot; -jar &quot;res/RDF-DataManagement.jar&quot; -group &quot;us&quot; -times 20 -verbose" />
       <option name="VM_PARAMETERS" value="-Xmx5G" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3 times" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fr.kriszt.theo.Main" />
+      <module name="RDF_Wrapper" />
+      <option name="PROGRAM_PARAMETERS" value="-queries &quot;res/requetes1000/Q_1_eligibleregion_10000.queryset&quot; -data &quot;res/dataset/1M.rdfxml.rdf&quot; -output &quot;out/wrapper&quot; -jar &quot;res/RDF-DataManagement.jar&quot; -group &quot;us&quot; -times 3 -verbose" />
+      <option name="VM_PARAMETERS" value="-Xmx5G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="One time" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fr.kriszt.theo.Main" />
+      <module name="RDF_Wrapper" />
+      <option name="PROGRAM_PARAMETERS" value="-queries &quot;res/requetes1000&quot; -data &quot;res/dataset/1M.rdfxml.rdf&quot; -output &quot;out/wrapper&quot; -jar &quot;res/RDF-DataManagement.jar&quot; -group &quot;us&quot; -times 1 -verbose" />
+      <option name="VM_PARAMETERS" value="-Xmx5G" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="full  10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fr.kriszt.theo.Main" />
+      <module name="RDF_Wrapper" />
+      <option name="PROGRAM_PARAMETERS" value="-queries &quot;res/Q_1_35K.queryset&quot; -data &quot;res/dataset/500K.rdfxml&quot; -output &quot;out/wrapper&quot; -jar &quot;res/RDF-DataManagement.jar&quot; -group &quot;us&quot; -times 50 -verbose" />
+      <option name="VM_PARAMETERS" value="-Xmx5G" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="light 25" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fr.kriszt.theo.Main" />
+      <module name="RDF_Wrapper" />
+      <option name="PROGRAM_PARAMETERS" value="-queries &quot;res/queries/100/Q_1_eligibleregion_100.queryset&quot; -data &quot;res/dataset/100K.rdfxml&quot; -output &quot;out/wrapper&quot; -jar &quot;res/RDF-DataManagement.jar&quot; -group &quot;us&quot; -times 25 -verbose -shuffle" />
+      <option name="VM_PARAMETERS" value="-Xmx5G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="light" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fr.kriszt.theo.Main" />
+      <module name="RDF_Wrapper" />
+      <option name="PROGRAM_PARAMETERS" value="-queries &quot;res/queries/100/Q_1_eligibleregion_100.queryset&quot; -data &quot;res/dataset/100K.rdfxml&quot; -output &quot;out/wrapper&quot; -jar &quot;res/RDF-DataManagement.jar&quot; -group &quot;us&quot; -times 3 -verbose" />
+      <option name="VM_PARAMETERS" value="-Xmx5G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.3 times" />
+      <item itemvalue="Application.light" />
+      <item itemvalue="Application.light 25" />
+      <item itemvalue="Application.full  10" />
+      <item itemvalue="Application.20 times" />
+      <item itemvalue="Application.One time" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.One time" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d023d150-63f6-4b90-9e9d-6ba360043011" name="Default Changelist" comment="" />
+      <created>1542553244126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542553244126</updated>
+      <workItem from="1542553246068" duration="1023000" />
+      <workItem from="1542575158119" duration="588000" />
+      <workItem from="1542887391516" duration="140000" />
+      <workItem from="1542970279865" duration="585000" />
+      <workItem from="1543059621877" duration="3468000" />
+      <workItem from="1543067172892" duration="12213000" />
+      <workItem from="1543275877881" duration="2397000" />
+      <workItem from="1543278310054" duration="6408000" />
+      <workItem from="1543349512433" duration="5890000" />
+      <workItem from="1543362636552" duration="1444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34156000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1323" height="1055" extended-state="0" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3309804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38777778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44432548" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45927602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3337104" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32869378" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32692307" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -203,35 +382,112 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36247334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44333333" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3337104" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32692307" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Process.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
-        </state>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Process.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/InputStream.java" />
+    <entry file="file://$PROJECT_DIR$/out/wrapper_0/stats.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/wrapper_0/workload_time.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/InputStream.java">
+    <entry file="file://$PROJECT_DIR$/out/wrapper_2/stats.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/wrapper_2/workload_time.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-736">
-          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
+        <state relative-caret-position="161">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/queries/100/Q_1_eligibleregion_100.queryset">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/wrapper_stats_130K_1M_shuffle.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/queries/100/Q_2_likes_nationality_100.queryset">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/wrapper_stats_130K_1M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/kriszt/theo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+        <state relative-caret-position="349">
+          <caret line="175" column="49" selection-start-line="175" selection-start-column="49" selection-end-line="175" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#printProcessOutput#0;class#Main#0" />
+            <element signature="method#getParams#0;class#Main#0" />
+            <element signature="class#GroupEnum#0;class#Main#0" />
           </folding>
         </state>
       </provider>
